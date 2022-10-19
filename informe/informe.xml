@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ejecuciones>
+    <ejecuciones_list>
+        <ejecuciones uuid="98803e40-f6e9-4c54-acd6-e85d846c4132" execution_time_millis="18503">
+            <fechaInicio>2022-10-19</fechaInicio>
+            <fechaFin>2022-10-19</fechaFin>
+        </ejecuciones>
+        <ejecuciones uuid="e30f411b-6a44-4295-a922-1a148ffbd0aa" execution_time_millis="19098">
+            <fechaInicio>2022-10-19</fechaInicio>
+            <fechaFin>2022-10-19</fechaFin>
+        </ejecuciones>
+        <ejecuciones uuid="bed49e6c-9bca-4b2a-a78f-edeb4d6ccf6f" execution_time_millis="28861">
+            <fechaInicio>2022-10-19</fechaInicio>
+            <fechaFin>2022-10-19</fechaFin>
+        </ejecuciones>
+        <ejecuciones uuid="2bd6f2bc-ebeb-40b9-93ef-4ccf7c752eae" execution_time_millis="18088">
+            <fechaInicio>2022-10-19</fechaInicio>
+            <fechaFin>2022-10-19</fechaFin>
+        </ejecuciones>
+    </ejecuciones_list>
+</ejecuciones>
